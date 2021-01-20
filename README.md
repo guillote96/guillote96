@@ -4,12 +4,12 @@
 ---
 ### :boy: Soy Guillermo Juárez
 
-- Vivo en la ciudad de La Plata, Argentina
-- Graduado de Analista Programador Universitario (UNLP)
+- :department_store: Vivo en la ciudad de La Plata, Argentina.
+- 🎓 Graduado de Analista Programador Universitario (UNLP).
 - Me gusta: 
-   - Practicar deportes como el Runner, Padel, Softbol, entre otros
-   - Aprender cosas nuevas
-   - Leer
+   - :baseball: Practicar deportes como el Runner, Padel, Softbol, entre otros.
+   - :earth_americas: Aprender cosas nuevas.
+   - :orange_book: Leer.
 
 ### 🛠 | Tecnologias
 
