@@ -1,9 +1,11 @@
 ## Hola a Todos!! 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-ju%C3%A1rez-9a25311bb/)]
 [![Mail Badge](https://img.shields.io/badge/-juarez.unlp96@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juarez.unlp96@gmail.com)](mailto:juarez.unlp96@gmail.com)
 ---
-### Soy Guillermo Juárez
+### :boy: Soy Guillermo Juárez
 
-- Analista Programador Universitario (UNLP)
+- Vivo en la ciudad de La Plata, Argentina
+- Graduado de Analista Programador Universitario (UNLP)
 - Me gusta: 
    - Practicar deportes como el Runner, Padel, Softbol, entre otros
    - Aprender cosas nuevas
