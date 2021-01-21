@@ -7,7 +7,7 @@
 - :department_store: Vivo en la ciudad de La Plata, Argentina.
 - 🎓 Graduado de Analista Programador Universitario (UNLP).
 - Me gusta: 
-   - :baseball: Practicar deportes como el Runner, Padel, Softbol, entre otros.
+   - :baseball: Practicar deportes como Correr, Padel, Softbol, entre otros.
    - :earth_americas: Aprender cosas nuevas.
    - :orange_book: Leer.
 
